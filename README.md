@@ -1,3 +1,3 @@
 # COT
 a system from python
-COmpuTer
+**COT = COmpuTer**
